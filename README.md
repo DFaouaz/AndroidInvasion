@@ -1,7 +1,12 @@
-# Estructura de carpetas
-
-- AndroidInvasion es la carpeta del projecto de Unreal.
-- MDDV22_AndroidInvasion_FaouazSantillanaDany.zip es la build ejecutable del juego.
+# Android Invasion
+Este es un proyecto del Master de Desarrollo de Videojuegos de la Universidad Complutense de Madrid (2022-2023).
+El juego consiste en prototipar la funcionalidad principal de un FPS y un Third Person y combinarlos.
+El objetivo es:
+- Al iniciar tienes que llevar al personaje al edificio que se encuentra en medio del desierto
+- Una vez dentro empezará el juego principal.
+- Hay que sobrevivir el ataque de los androides mientras destruyes los prototipos.
+- Cuando destruyas todos los prototipos, pasas el siguiente nivel de dificultad.
+- Repite la misma partida incrementando el nivel de dificultad hasta que ya no puedas sobrevivir.
 
 # Controles
 
